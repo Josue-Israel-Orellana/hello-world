@@ -1,2 +1,11 @@
 # hello-world
-my first repository
+
+Word List:
+
+torta
+onyx
+herald
+cake
+catharsis
+pizza
+code
